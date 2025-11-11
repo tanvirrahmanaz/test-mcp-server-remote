@@ -1,0 +1,48 @@
+2025-11-09T12:34:21.547Z [info] [ExpenseTracker] Initializing server...
+2025-11-09T12:34:21.562Z [info] [ExpenseTracker] Using MCP server command: C:\\ExpenseTracker\\ExpenseTimeTracker.exe with args and path: {
+  args: [ [length]: 0 ],
+  paths: [
+    'C:\\Program Files\\nodejs',
+    'C:\\Program Files\\Python313\\Scripts',
+    'C:\\Program Files\\Python313\\',
+    'C:\\Users\\tanvi\\AppData\\Local\\Microsoft\\WindowsApps',
+    'C:\\Users\\tanvi\\AppData\\Local\\Programs\\Microsoft VS Code\\bin',
+    'C:\\Program Files\\Git\\cmd',
+    'C:\\Program Files\\nodejs\\',
+    'C:\\Program Files\\Docker\\Docker\\resources\\bin',
+    'C:\\Users\\tanvi_pja276c\\AppData\\Local\\Microsoft\\WindowsApps',
+    [length]: 9
+  ]
+}
+2025-11-09T12:34:21.571Z [info] [ExpenseTracker] Server started and connected successfully
+2025-11-09T12:34:21.604Z [info] [ExpenseTracker] Message from client: {"method":"initialize","params":{"protocolVersion":"2025-06-18","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-11-09T12:34:21.620Z [error] [ExpenseTracker] spawn C:\\ExpenseTracker\\ExpenseTimeTracker.exe ENOENT
+2025-11-09T12:34:21.621Z [info] [ExpenseTracker] Server transport closed
+2025-11-09T12:34:21.621Z [info] [ExpenseTracker] Client transport closed
+2025-11-09T12:34:21.622Z [info] [ExpenseTracker] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-11-09T12:34:21.622Z [error] [ExpenseTracker] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-11-09T12:34:21.623Z [info] [ExpenseTracker] Client transport closed
+2025-11-09T12:53:35.495Z [info] [ExpenseTracker] Initializing server...
+2025-11-09T12:53:35.512Z [info] [ExpenseTracker] Using MCP server command: C:\\ExpenseTracker-Portable\\ExpenseTimeTracker.exe with args and path: {
+  args: [ [length]: 0 ],
+  paths: [
+    'C:\\Program Files\\nodejs',
+    'C:\\Program Files\\Python313\\Scripts',
+    'C:\\Program Files\\Python313\\',
+    'C:\\Users\\tanvi\\AppData\\Local\\Microsoft\\WindowsApps',
+    'C:\\Users\\tanvi\\AppData\\Local\\Programs\\Microsoft VS Code\\bin',
+    'C:\\Program Files\\Git\\cmd',
+    'C:\\Program Files\\nodejs\\',
+    'C:\\Program Files\\Docker\\Docker\\resources\\bin',
+    'C:\\Users\\tanvi_pja276c\\AppData\\Local\\Microsoft\\WindowsApps',
+    '',
+    [length]: 10
+  ]
+}
+2025-11-09T12:53:35.661Z [info] [ExpenseTracker] Server started and connected successfully
+2025-11-09T12:53:35.679Z [info] [ExpenseTracker] Message from client: {"method":"initialize","params":{"protocolVersion":"2025-06-18","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0}
+2025-11-09T12:53:38.133Z [info] [ExpenseTracker] Server transport closed
+2025-11-09T12:53:38.133Z [info] [ExpenseTracker] Client transport closed
+2025-11-09T12:53:38.134Z [info] [ExpenseTracker] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log.
+2025-11-09T12:53:38.134Z [error] [ExpenseTracker] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging)
+2025-11-09T12:53:38.135Z [info] [ExpenseTracker] Client transport closed

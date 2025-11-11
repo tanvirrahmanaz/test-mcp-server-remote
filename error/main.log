@@ -1,0 +1,288 @@
+2025-11-09 18:02:46 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:02:46 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:02:46 [info] App is quitting, cleaning up...
+2025-11-09 18:02:46 [info] Update URL: https://downloads.claude.ai/releases/win32/x64
+2025-11-09 18:02:46 [info] App is not installed, not enabling auto-updates
+2025-11-09 18:02:47 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:02:47 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:02:47 [info] Update URL: https://downloads.claude.ai/releases/win32/x64
+2025-11-09 18:02:47 [info] App is not installed, not enabling auto-updates
+2025-11-09 18:02:49 [info] Starting periodic extension update checks (interval: 21600000ms)
+2025-11-09 18:02:49 [warn] getBlocklistUrl: No lastActiveOrg found, returning null
+2025-11-09 18:02:49 [warn] Could not find org id when attempting to fetch blocklist
+2025-11-09 18:02:49 [warn] No blocklist data received
+2025-11-09 18:02:49 [info] Checking 0 extensions via can_install API using stored metadata
+2025-11-09 18:02:49 [warn] getOrganizationUrl: No lastActiveOrg found, returning null
+2025-11-09 18:02:49 [warn] Could not get organization URL
+2025-11-09 18:02:49 [info] Updated allowlist enabled state: false
+2025-11-09 18:02:49 [warn] Could not find org id when attempting to check can_install
+2025-11-09 18:03:15 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:03:15 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:03:15 [info] Update URL: https://downloads.claude.ai/releases/win32/x64
+2025-11-09 18:03:15 [info] App is installed, enabling initial check and auto-updates
+2025-11-09 18:03:15 [info] Checking for updates
+2025-11-09 18:03:17 [info] Tracked desktop initial activation
+2025-11-09 18:04:05 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:04:05 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:04:06 [info] Update URL: https://downloads.claude.ai/releases/win32/x64
+2025-11-09 18:04:06 [info] App is installed, enabling initial check and auto-updates
+2025-11-09 18:04:06 [info] Checking for updates
+2025-11-09 18:04:06 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:04:06 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:04:06 [info] Update URL: https://downloads.claude.ai/releases/win32/x64
+2025-11-09 18:04:06 [info] App is installed, enabling initial check and auto-updates
+2025-11-09 18:04:06 [info] Checking for updates
+2025-11-09 18:04:08 [info] Starting periodic extension update checks (interval: 21600000ms)
+2025-11-09 18:04:08 [info] Checking 0 extensions via can_install API using stored metadata
+2025-11-09 18:04:08 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2025-11-09 18:04:09 [info] Organization allowlist enabled: false
+2025-11-09 18:04:09 [info] Updated allowlist enabled state: false
+2025-11-09 18:04:09 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/0589e365-97f4-4bc9-acc0-17f0d37e314f/dxt/blocklist with 0 entries
+2025-11-09 18:04:09 [info] Saved 1 blocklists with 0 entries
+2025-11-09 18:04:09 [info] Successfully updated blocklist
+2025-11-09 18:04:33 [info] Config file written
+2025-11-09 18:10:13 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:10:14 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:10:14 [info] Update URL: https://downloads.claude.ai/releases/win32/x64
+2025-11-09 18:10:14 [info] App is installed, enabling initial check and auto-updates
+2025-11-09 18:10:14 [info] Checking for updates
+2025-11-09 18:10:14 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:10:15 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:10:15 [info] Update URL: https://downloads.claude.ai/releases/win32/x64
+2025-11-09 18:10:15 [info] App is installed, enabling initial check and auto-updates
+2025-11-09 18:10:15 [info] Checking for updates
+2025-11-09 18:10:17 [info] Starting periodic extension update checks (interval: 21600000ms)
+2025-11-09 18:10:17 [info] Checking 0 extensions via can_install API using stored metadata
+2025-11-09 18:10:17 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2025-11-09 18:10:18 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/0589e365-97f4-4bc9-acc0-17f0d37e314f/dxt/blocklist with 0 entries
+2025-11-09 18:10:18 [info] Saved 1 blocklists with 0 entries
+2025-11-09 18:10:18 [info] Successfully updated blocklist
+2025-11-09 18:10:18 [info] Organization allowlist enabled: false
+2025-11-09 18:10:18 [info] Updated allowlist enabled state: false
+2025-11-09 18:32:53 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:32:54 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:32:54 [info] Update URL: https://downloads.claude.ai/releases/win32/x64
+2025-11-09 18:32:54 [info] App is installed, enabling initial check and auto-updates
+2025-11-09 18:32:54 [info] Checking for updates
+2025-11-09 18:32:54 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:32:55 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:32:55 [info] Update URL: https://downloads.claude.ai/releases/win32/x64
+2025-11-09 18:32:55 [info] App is installed, enabling initial check and auto-updates
+2025-11-09 18:32:55 [info] Checking for updates
+2025-11-09 18:32:58 [info] Starting periodic extension update checks (interval: 21600000ms)
+2025-11-09 18:32:58 [info] Checking 0 extensions via can_install API using stored metadata
+2025-11-09 18:32:58 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2025-11-09 18:32:58 [info] Organization allowlist enabled: false
+2025-11-09 18:32:58 [info] Updated allowlist enabled state: false
+2025-11-09 18:32:58 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/0589e365-97f4-4bc9-acc0-17f0d37e314f/dxt/blocklist with 0 entries
+2025-11-09 18:32:58 [info] Saved 1 blocklists with 0 entries
+2025-11-09 18:32:58 [info] Successfully updated blocklist
+2025-11-09 18:34:14 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:34:15 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:34:15 [info] Update URL: https://downloads.claude.ai/releases/win32/x64
+2025-11-09 18:34:15 [info] App is installed, enabling initial check and auto-updates
+2025-11-09 18:34:15 [info] Checking for updates
+2025-11-09 18:34:15 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:34:15 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:34:16 [info] Update URL: https://downloads.claude.ai/releases/win32/x64
+2025-11-09 18:34:16 [info] App is installed, enabling initial check and auto-updates
+2025-11-09 18:34:16 [info] Checking for updates
+2025-11-09 18:34:17 [info] Starting periodic extension update checks (interval: 21600000ms)
+2025-11-09 18:34:17 [info] Checking 0 extensions via can_install API using stored metadata
+2025-11-09 18:34:17 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2025-11-09 18:34:18 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/0589e365-97f4-4bc9-acc0-17f0d37e314f/dxt/blocklist with 0 entries
+2025-11-09 18:34:18 [info] Saved 1 blocklists with 0 entries
+2025-11-09 18:34:18 [info] Successfully updated blocklist
+2025-11-09 18:34:18 [info] Organization allowlist enabled: false
+2025-11-09 18:34:18 [info] Updated allowlist enabled state: false
+2025-11-09 18:34:21 [info] MCP Server connection requested for: ExpenseTracker
+2025-11-09 18:34:21 [info] Launching MCP Server: ExpenseTracker
+2025-11-09 18:34:21 [info] Checking if UtilityProcess should be used for extension ExpenseTracker
+2025-11-09 18:34:21 [warn] UtilityProcess Check: Extension ExpenseTracker not found in installed extensions
+2025-11-09 18:50:36 [info] Config file written
+2025-11-09 18:50:49 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:50:49 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:50:49 [info] Update URL: https://downloads.claude.ai/releases/win32/x64
+2025-11-09 18:50:49 [info] App is installed, enabling initial check and auto-updates
+2025-11-09 18:50:49 [info] Checking for updates
+2025-11-09 18:50:51 [info] Starting periodic extension update checks (interval: 21600000ms)
+2025-11-09 18:50:51 [info] Checking 0 extensions via can_install API using stored metadata
+2025-11-09 18:50:51 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2025-11-09 18:50:52 [info] Organization allowlist enabled: false
+2025-11-09 18:50:52 [info] Updated allowlist enabled state: false
+2025-11-09 18:50:52 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/0589e365-97f4-4bc9-acc0-17f0d37e314f/dxt/blocklist with 0 entries
+2025-11-09 18:50:52 [info] Saved 1 blocklists with 0 entries
+2025-11-09 18:50:52 [info] Successfully updated blocklist
+2025-11-09 18:53:28 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:53:28 [info] Starting app {
+  appVersion: '1.0.332',
+  isPackaged: true,
+  platform: 'win32',
+  arch: 'x64',
+  nodeVersion: '22.19.0'
+}
+2025-11-09 18:53:28 [info] Update URL: https://downloads.claude.ai/releases/win32/x64
+2025-11-09 18:53:28 [info] App is installed, enabling initial check and auto-updates
+2025-11-09 18:53:28 [info] Checking for updates
+2025-11-09 18:53:31 [info] Starting periodic extension update checks (interval: 21600000ms)
+2025-11-09 18:53:31 [info] Checking 0 extensions via can_install API using stored metadata
+2025-11-09 18:53:31 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2025-11-09 18:53:31 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/0589e365-97f4-4bc9-acc0-17f0d37e314f/dxt/blocklist with 0 entries
+2025-11-09 18:53:31 [info] Saved 1 blocklists with 0 entries
+2025-11-09 18:53:31 [info] Successfully updated blocklist
+2025-11-09 18:53:32 [info] Organization allowlist enabled: false
+2025-11-09 18:53:32 [info] Updated allowlist enabled state: false
+2025-11-09 18:53:35 [info] MCP Server connection requested for: ExpenseTracker
+2025-11-09 18:53:35 [info] Launching MCP Server: ExpenseTracker
+2025-11-09 18:53:35 [info] Checking if UtilityProcess should be used for extension ExpenseTracker
+2025-11-09 18:53:35 [warn] UtilityProcess Check: Extension ExpenseTracker not found in installed extensions

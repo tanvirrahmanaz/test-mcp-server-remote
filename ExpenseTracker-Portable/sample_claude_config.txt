@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "ExpenseTracker": {
+      "command": "C:\\\\ExpenseTracker\\\\ExpenseTimeTracker.exe"
+    }
+  }
+}
+
+Notes:
+1. Replace C:\\\\ExpenseTracker\\\\ with the actual folder path where you extracted the package.
+2. Always use double backslashes in the JSON file.
+3. Keep the executable file name exactly the same.
+
+Example paths:
+- "C:\\\\Users\\\\Tanvi\\\\Documents\\\\ExpenseTracker\\\\ExpenseTimeTracker.exe"
+- "D:\\\\Apps\\\\ExpenseTracker\\\\ExpenseTimeTracker.exe"

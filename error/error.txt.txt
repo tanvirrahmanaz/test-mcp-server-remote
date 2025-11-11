@@ -1,0 +1,10 @@
+ExpenseTracker
+ExpenseTracker
+failed
+
+Command
+C:\\ExpenseTracker-Portable\\ExpenseTimeTracker.exe
+
+Error
+Server disconnected
+

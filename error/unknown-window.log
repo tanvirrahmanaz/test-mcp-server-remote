@@ -1,0 +1,15 @@
+2025-11-09 18:02:48 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-11-09 18:02:50 [warn] [Intercom] The App ID in your code snippet has not been set. Set it to your App ID found in settings to complete installation: https://app.intercom.com/a/apps/_/settings/web
+2025-11-09 18:03:17 [error]  ERROR  [Statsig] Failed to parse EvaluationResponse
+2025-11-09 18:03:20 [error] `DialogContent` requires a `DialogTitle` for the component to be accessible for screen reader users.
+
+If you want to hide the `DialogTitle`, you can wrap it with our VisuallyHidden component.
+
+For more information, see https://radix-ui.com/primitives/docs/components/dialog
+2025-11-09 18:03:20 [warn] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+2025-11-09 18:04:08 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-11-09 18:10:16 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-11-09 18:32:56 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-11-09 18:34:17 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-11-09 18:50:50 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-11-09 18:53:30 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.

@@ -1,0 +1,103 @@
+2025-11-09T12:34:21.547Z [ExpenseTracker] [info] Initializing server... { metadata: undefined }
+2025-11-09T12:34:21.562Z [ExpenseTracker] [info] Using MCP server command: C:\\ExpenseTracker\\ExpenseTimeTracker.exe with args and path: {
+  metadata: {
+    args: [ [length]: 0 ],
+    paths: [
+      'C:\\Program Files\\nodejs',
+      'C:\\Program Files\\Python313\\Scripts',
+      'C:\\Program Files\\Python313\\',
+      'C:\\Users\\tanvi\\AppData\\Local\\Microsoft\\WindowsApps',
+      'C:\\Users\\tanvi\\AppData\\Local\\Programs\\Microsoft VS Code\\bin',
+      'C:\\Program Files\\Git\\cmd',
+      'C:\\Program Files\\nodejs\\',
+      'C:\\Program Files\\Docker\\Docker\\resources\\bin',
+      'C:\\Users\\tanvi_pja276c\\AppData\\Local\\Microsoft\\WindowsApps',
+      [length]: 9
+    ]
+  }
+} %o
+2025-11-09T12:34:21.570Z [ExpenseTracker] [info] Server started and connected successfully { metadata: undefined }
+2025-11-09T12:34:21.603Z [ExpenseTracker] [info] Message from client: {"method":"initialize","params":{"protocolVersion":"2025-06-18","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0} { metadata: undefined }
+The system cannot find the path specified.
+2025-11-09T12:34:21.620Z [ExpenseTracker] [error] spawn C:\\ExpenseTracker\\ExpenseTimeTracker.exe ENOENT {
+  metadata: {
+    context: 'connection',
+    stack: 'Error: spawn C:\\\\ExpenseTracker\\\\ExpenseTimeTracker.exe ENOENT\n' +
+      '    at e (C:\\Users\\tanvi_pja276c\\AppData\\Local\\AnthropicClaude\\app-1.0.332\\resources\\app.asar\\.vite\\build\\index.js:192:7338)\n' +
+      '    at n (C:\\Users\\tanvi_pja276c\\AppData\\Local\\AnthropicClaude\\app-1.0.332\\resources\\app.asar\\.vite\\build\\index.js:192:7665)\n' +
+      '    at a.emit (C:\\Users\\tanvi_pja276c\\AppData\\Local\\AnthropicClaude\\app-1.0.332\\resources\\app.asar\\.vite\\build\\index.js:192:7556)\n' +
+      '    at ChildProcess._handle.onexit (node:internal/child_process:293:12)'
+  }
+}
+2025-11-09T12:34:21.621Z [ExpenseTracker] [info] Server transport closed { metadata: undefined }
+2025-11-09T12:34:21.621Z [ExpenseTracker] [info] Client transport closed { metadata: undefined }
+2025-11-09T12:34:21.621Z [ExpenseTracker] [info] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log. { metadata: undefined }
+2025-11-09T12:34:21.622Z [ExpenseTracker] [error] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging) { metadata: { context: 'connection', stack: undefined } }
+2025-11-09T12:34:21.623Z [ExpenseTracker] [info] Client transport closed { metadata: undefined }
+2025-11-09T12:53:35.495Z [ExpenseTracker] [info] Initializing server... { metadata: undefined }
+2025-11-09T12:53:35.512Z [ExpenseTracker] [info] Using MCP server command: C:\\ExpenseTracker-Portable\\ExpenseTimeTracker.exe with args and path: {
+  metadata: {
+    args: [ [length]: 0 ],
+    paths: [
+      'C:\\Program Files\\nodejs',
+      'C:\\Program Files\\Python313\\Scripts',
+      'C:\\Program Files\\Python313\\',
+      'C:\\Users\\tanvi\\AppData\\Local\\Microsoft\\WindowsApps',
+      'C:\\Users\\tanvi\\AppData\\Local\\Programs\\Microsoft VS Code\\bin',
+      'C:\\Program Files\\Git\\cmd',
+      'C:\\Program Files\\nodejs\\',
+      'C:\\Program Files\\Docker\\Docker\\resources\\bin',
+      'C:\\Users\\tanvi_pja276c\\AppData\\Local\\Microsoft\\WindowsApps',
+      '',
+      [length]: 10
+    ]
+  }
+} %o
+2025-11-09T12:53:35.661Z [ExpenseTracker] [info] Server started and connected successfully { metadata: undefined }
+2025-11-09T12:53:35.679Z [ExpenseTracker] [info] Message from client: {"method":"initialize","params":{"protocolVersion":"2025-06-18","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0} { metadata: undefined }
+Traceback (most recent call last):
+  File "key_value\aio\stores\disk\multi_store.py", line 13, in <module>
+ModuleNotFoundError: No module named 'diskcache'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "main.py", line 1, in <module>
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "fastmcp\__init__.py", line 15, in <module>
+    from fastmcp.server.server import FastMCP
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "fastmcp\server\__init__.py", line 1, in <module>
+    from .server import FastMCP
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "fastmcp\server\server.py", line 56, in <module>
+    from fastmcp.mcp_config import MCPConfig
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "fastmcp\mcp_config.py", line 43, in <module>
+    from fastmcp.tools.tool_transform import ToolTransformConfig
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "fastmcp\tools\__init__.py", line 1, in <module>
+    from .tool import Tool, FunctionTool
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "fastmcp\tools\tool.py", line 25, in <module>
+    from fastmcp.server.dependencies import get_context
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "fastmcp\server\dependencies.py", line 14, in <module>
+    from fastmcp.server.auth import AccessToken
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "fastmcp\server\auth\__init__.py", line 9, in <module>
+    from .oauth_proxy import OAuthProxy
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "fastmcp\server\auth\oauth_proxy.py", line 37, in <module>
+    from key_value.aio.stores.disk import DiskStore
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "key_value\aio\stores\disk\__init__.py", line 1, in <module>
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "key_value\aio\stores\disk\multi_store.py", line 17, in <module>
+ImportError: DiskStore requires py-key-value-aio[disk]
+[PYI-27136:ERROR] Failed to execute script 'main' due to unhandled exception!
+2025-11-09T12:53:38.133Z [ExpenseTracker] [info] Server transport closed { metadata: undefined }
+2025-11-09T12:53:38.133Z [ExpenseTracker] [info] Client transport closed { metadata: undefined }
+2025-11-09T12:53:38.134Z [ExpenseTracker] [info] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log. { metadata: undefined }
+2025-11-09T12:53:38.134Z [ExpenseTracker] [error] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging) { metadata: { context: 'connection', stack: undefined } }
+2025-11-09T12:53:38.135Z [ExpenseTracker] [info] Client transport closed { metadata: undefined }
